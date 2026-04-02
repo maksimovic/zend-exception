@@ -17,7 +17,8 @@
     },
     "replace": {
         "zf1/zend-exception": "^1.12",
-        "zf1s/zend-exception": "^1.12"
+        "zf1s/zend-exception": "^1.12",
+        "zendframework/zend-exception": "*"
     },
     "scripts": {
         "test": "phpunit",
